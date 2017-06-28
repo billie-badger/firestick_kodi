@@ -20,7 +20,7 @@ Leave the command line open and...
 
 Turn on your Firestick and go to SETTINGS --> DEVICE --> DEVELOPER OPTIONS
 
-Turn ADB Debugging "ON" and Unknown Sources "OFF"
+Turn ADB Debugging "ON" and Unknown Sources "ON"
 
 Go back to DEVICE --> NETWORK and locate your IP Address (ex: "192.000.0.1")
 
